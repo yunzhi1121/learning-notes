@@ -16,7 +16,7 @@ venv/
 *.swp
 
 # 排除 Java学习笔记中的 task 文件夹
-1.Java相关/task/
+*/task/
 
 # 操作系统文件
 .DS_Store
