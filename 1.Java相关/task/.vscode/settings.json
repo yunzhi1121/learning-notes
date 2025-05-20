@@ -1,0 +1,11 @@
+{
+    "emeraldwalk.runonsave": {
+      "commands": [
+        {
+          "match": "task_list\\.md$",
+          "cmd": "python task_stats_on_save.py"
+        }
+      ]
+    }
+  }
+  
