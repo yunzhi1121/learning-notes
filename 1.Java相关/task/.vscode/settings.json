@@ -1,11 +1,11 @@
 {
-    "emeraldwalk.runonsave": {
-      "commands": [
-        {
-          "match": "task_list\\.md$",
-          "cmd": "python task_stats_on_save.py"
-        }
-      ]
-    }
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "task_list\\.md$",
+        "cmd": "\"python\" \"06 学习笔记/1.Java相关/task/task_stats_on_save.py\""
+
+      }
+    ]
   }
-  
+}
