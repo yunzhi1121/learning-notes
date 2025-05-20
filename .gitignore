@@ -1,0 +1,23 @@
+# Python 缓存和虚拟环境
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# VSCode 工作区设置
+.vscode/
+
+# 日志和临时文件
+*.log
+*.tmp
+*.swp
+
+# 排除 Java学习笔记中的 task 文件夹
+1.Java相关/task/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
